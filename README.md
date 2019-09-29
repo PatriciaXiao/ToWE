@@ -7,6 +7,8 @@ This software implements the task-oriented word embedding for text classificatio
 
 type ```make```
 
+on mac we probably need to [install and activate the gcc](https://apple.stackexchange.com/questions/254380/why-am-i-getting-an-invalid-active-developer-path-when-attempting-to-use-git-a)
+
 ## Example
 
 The example file of domain specific words is provided in "domainwords.txt". 
